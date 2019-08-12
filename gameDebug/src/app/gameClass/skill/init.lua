@@ -1,0 +1,5 @@
+require "app.gameClass.skill.Aoyi"
+require "app.gameClass.skill.InternalSkill"
+require "app.gameClass.skill.Skill"
+require "app.gameClass.skill.SpecialSkill"
+require "app.gameClass.skill.UniqueSkill"

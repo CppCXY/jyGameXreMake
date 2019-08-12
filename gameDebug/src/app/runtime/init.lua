@@ -1,0 +1,7 @@
+require "app.runtime.Event"
+require "app.runtime.AnimateManager"
+require "app.runtime.Audio"
+require "app.runtime.EventManager"
+require "app.runtime.RuntimeData"
+require "app.runtime.NetWork"
+require "app.runtime.NetWorkEvent"

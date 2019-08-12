@@ -1,0 +1,2 @@
+唯一需要执行的是encript，这个单词我好像拼错了？
+他会把gameDebug/src中的所有lua文件加密为luajit字节码到gameRelase/src中去。

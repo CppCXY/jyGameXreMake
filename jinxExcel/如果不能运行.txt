@@ -1,0 +1,11 @@
+python 版本3.x(开发时版本3.7.3)
+一般情况下不会闪退，闪退表明不能正常运行，按下面步骤执行
+请在cmd下输入
+pip install xlrd
+除此以外我没有其他依赖包，
+python3如果安装的成功，可以双击执行excel2Lua，
+或者打开就地打开cmd（shift+鼠标右键）
+输入python excel2Lua.py
+
+默认输出目录是在gameDebug/src/resScript/time1中
+

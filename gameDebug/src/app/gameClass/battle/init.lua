@@ -1,0 +1,5 @@
+require "app.gameClass.battle.BattleEnum"
+require "app.gameClass.battle.BattleFieldManager"
+require "app.gameClass.battle.BattleStatistics"
+require "app.gameClass.battle.BattleAnimation"
+require "app.gameClass.battle.SpriteAnimate"

@@ -1,0 +1,6 @@
+include "app.ui.base.cocosAPI"
+include "app.ui.base.TableView"
+include "app.ui.base.ScrollView"
+include "app.ui.base.TableView"
+include "app.ui.base.CardUI"
+include "app.ui.base.RectCardUI"

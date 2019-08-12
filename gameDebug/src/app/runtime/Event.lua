@@ -1,0 +1,8 @@
+_ENV=namespace "ENUM"
+
+RUNTIME_EVENT={
+    MEET_ROLE=1,
+    KILL_ROLE=2,
+    COMPLETE_MISSION=3,
+    
+}
